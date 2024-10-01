@@ -1,6 +1,6 @@
 package objc_Metal
 
-import NS "core:sys/darwin/Foundation"
+import NS "core:sys/darwin/UIKit"
 import "core:mem"
 _ :: mem
 

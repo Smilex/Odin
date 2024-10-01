@@ -1,6 +1,6 @@
 package objc_QuartzCore
 
-import NS "core:sys/darwin/Foundation"
+import NS "core:sys/darwin/UIKit"
 import MTL "vendor:darwin/Metal"
 import "base:intrinsics"
 
